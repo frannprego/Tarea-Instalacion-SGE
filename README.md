@@ -44,3 +44,7 @@ Ahora tenemos que configurar Wordpress para usar esta base de datos.
 - Para finalizar abrimos el localhost y nos mostrará el Wordpress en una nueva pestaña.
 
 Aqui dejo las capturas de pantalla relevantes de como he realizado la tarea:
+
+![](1SXE.png)
+![](2SXE.png)
+![](3SXE.png)
