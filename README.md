@@ -1,6 +1,6 @@
 # Instalación SGE
 
-### Una vez que el ubuntu server esta instalado comenzaremos a configurar e instalar diferentes aspectos. 
+### Una vez que el ubuntu server está instalado comenzaremos a configurar e instalar diferentes aspectos. 
 
 #### 1. Instalar dependencias.
    Primeramente instalaremos PHP y Apache del siguiente modo:
